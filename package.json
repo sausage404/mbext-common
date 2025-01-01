@@ -1,0 +1,19 @@
+{
+  "name": "@mbext/common",
+  "version": "1.0.0",
+  "author": "sausage404",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sausage404/mbext-common.git"
+  },
+  "module": "dist/bundle.js",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "webpack": "^5.97.1",
+    "typescript": "^5.0.0"
+  },
+  "description": "Common utilities for minecraft bedrock development",
+  "type": "module"
+}
