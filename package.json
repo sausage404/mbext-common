@@ -3,6 +3,7 @@
   "description": "Common utilities for minecraft bedrock development",
   "version": "1.0.5",
   "author": "sausage404",
+  "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
     "url": "https://github.com/sausage404/mbext-common.git"
