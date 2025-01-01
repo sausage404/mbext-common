@@ -1,6 +1,6 @@
 # Common utilities for Minecraft Bedrock development
 
-[![npm version](https://badge.fury.io/js/%40mcbedrock%2Fcommon.svg)](https://badge.fury.io/js/%40mcbedrock%2Fcommon) 
+[![npm version](https://badge.fury.io/js/%40mbext%2Fcommon.svg)](https://badge.fury.io/js/%40mbext%2Fcommon) 
 
 `@mbext/common` is a comprehensive package that provides common utilities and tools for Minecraft Bedrock development. It includes webpack plugins for handling external dependencies and module constants for easy access to predefined Minecraft-related modules, plugins, and addons.
 
