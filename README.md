@@ -25,7 +25,7 @@ yarn add @mbext/common
 
 ## License
 
-@mbext/command-handler is released under the [GNU General Public License v3](https://github.com/sausage404/mbext-command-handler/blob/main/LICENSE).
+@mbext/common is released under the [GNU General Public License v3](https://github.com/sausage404/mbext-common/blob/main/LICENSE).
 
 ## Issues
 
