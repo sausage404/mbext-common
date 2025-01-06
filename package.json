@@ -1,7 +1,7 @@
 {
   "name": "@mbext/common",
   "description": "Common utilities for minecraft bedrock development",
-  "version": "1.0.0",
+  "version": "1.0.9",
   "author": "sausage404",
   "license": "GPL-3.0-only-3.0",
   "scripts": {
