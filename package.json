@@ -1,7 +1,7 @@
 {
   "name": "@mbext/common",
   "description": "Common utilities for minecraft bedrock development",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "author": "sausage404",
   "license": "GPL-3.0-only-3.0",
   "scripts": {
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/sausage404/mbext-common.git"
   },
-  "main": "./dist/index.js",
+  "main": "./dist/bundle.js",
   "types": "./types/index.d.ts",
   "devDependencies": {
     "ts-loader": "^9.5.1",
