@@ -9,7 +9,7 @@ module.exports = {
         filename: 'bundle.js',
         module: true,
         library: {
-            type: 'module'
+            type: 'commonjs'
         }
     },
     resolve: {
